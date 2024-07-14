@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @AliyanA1
-- 👀 I’m interested in ...Devops/cloud
-- 🌱 I’m currently learning ...devops
-- 💞️ I’m looking to collaborate on ...devops/cloud
-- 📫 How to reach me ...linkedin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...i love to code / and love to fix bugs😄
+Simple Weather Web App
+
+This is a basic weather web application built with HTML, CSS, and JavaScript. It fetches weather data from a free API and displays the current conditions for a user-specified location.
+
+Features:
+
+Fetches real-time weather data using an API
+Displays location, temperature, weather description, and an icon
+Clean and responsive design with CSS
 
 <!---
 AliyanA1/AliyanA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
