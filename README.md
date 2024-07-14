@@ -4,7 +4,7 @@ Expertise:
 
 Full-Stack Development:
 Front-End: HTML, CSS, JavaScript (React, Vue.js, Angular, etc.)
-Back-End: Languages like Python (Django, Flask), Node.js (Express), Java (Spring), PHP (Laravel), etc. ☕
+Back-End:  Node.js (Express)
 Databases: SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) ️
 DevOps: ⚙️
 Infrastructure Automation: Tools like Terraform, Ansible, Chef ️
